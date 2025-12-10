@@ -1,0 +1,7 @@
+{
+  "name": "BurgerTech Kiosk",
+  "description": "A next-generation fast food self-ordering kiosk with AI assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
