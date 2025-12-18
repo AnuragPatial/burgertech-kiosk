@@ -34,7 +34,7 @@ export const AttractScreen: React.FC<AttractScreenProps> = ({ onStart }) => {
         </p>
         
         <div className="bg-yellow-400 text-black px-12 py-6 rounded-full text-3xl font-bold uppercase tracking-widest animate-pulse shadow-xl border-4 border-yellow-200">
-          Touch to Order
+          Order Now
         </div>
       </div>
       
